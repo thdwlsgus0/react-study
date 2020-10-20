@@ -76,3 +76,12 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
     import React from 'react';
 
 - app.js에서 기존에 만들어주었던 컴포넌트 hello를 불러옵니다.
+
+### 리액트 기본문법
+
+1. JSX = 리액트에서 생김새를 정의할 때, 사용하는 문법
+   - 꼭 닫혀야하는 태그
+   - 꼭 감싸져야하는 태그
+   - JSX 안에 자바스크립트 값 사용하기
+   - style과 className 사용하기
+   - 주석
