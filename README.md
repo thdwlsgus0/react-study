@@ -66,3 +66,13 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### 첫번째 리액트 컴포넌트
+
+- hello.js
+
+리액트 컴포넌트를 만들 땐 다음의 키워드를 반드시 넣어주어야 합니다.
+
+    import React from 'react';
+
+- app.js에서 기존에 만들어주었던 컴포넌트 hello를 불러옵니다.
