@@ -67,6 +67,20 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
+### 리액트를 왜 사용하지?
+
+- 사용자 경험
+- 재사용 컴포넌트
+- 데이터-화면 일치
+
+### React.Component
+
+- 컴포넌트를 class 또는 함수로 정의
+- class로 정의된 컴포넌트는 많은 기능을 제공합니다.
+- React 컴포넌트 class를 정의하려면 React.Component를 상속받아야 합니다.
+- 컴포넌트 생명주기
+- props 또는 state가 변경되면 갱신이 발생합니다.
+
 ### 첫번째 리액트 컴포넌트
 
 - hello.js
